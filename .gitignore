@@ -1,7 +1,7 @@
 node_modules/
 *.log
-.env
 *.tmp
 dist/
 tools/*.exe
 assets/concat_*.txt
+config.bat
